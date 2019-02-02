@@ -1,0 +1,13 @@
+﻿require('./usuario_route');
+require('./tipo_documento_route');
+require('./tercero_route');
+require('./sede_route');
+require('./serie_route');
+require('./subserie_route');
+require('./convencion_route');
+require('./tipo_route');
+require('./disposicion_route');
+require('./grupo_route');
+require('./tabla_generica_route');
+require('./archivo_route');
+require('./lote_route');

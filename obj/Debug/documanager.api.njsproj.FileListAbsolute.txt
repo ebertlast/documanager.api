@@ -1,0 +1,3 @@
+C:\devNode\documanager.api\documanager.api\obj\Debug\documanager.api.njsprojResolveAssemblyReference.cache
+C:\devNode\documanager.api\documanager.api\obj\Debug\documanager.api.njsproj.CoreCompileInputs.cache
+C:\devNode\documanager.api\documanager.api\bin\Microsoft.NodejsTools.WebRole.dll
